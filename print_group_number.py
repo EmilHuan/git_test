@@ -9,7 +9,6 @@ def group_funcion():
         print("第 {} 組：".format(group_number[i] + 1))
         print()
         print()
-        print()
 
 # funciton 執行
 group_funcion()
