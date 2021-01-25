@@ -100,7 +100,10 @@ install.packages("bit64")
 install.packages("stats")
 
 
+## 2021/01/25 新增 (羅吉斯迴歸相關)
+# 計算 ROC, AUC
+install.packages("ROCR")
 
-
-
+# 計算 ROC, AUC、繪製 ROC 曲線
+install.packages("pROC")
 
